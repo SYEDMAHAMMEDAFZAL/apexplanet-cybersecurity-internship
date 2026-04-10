@@ -132,13 +132,7 @@ Task-3/
     └── security-headers.png
 ```
 
----
-
-## ✅ Deliverables
-
-- [ ] Security Testing Report (SQLi, XSS, CSRF with screenshots)
-- [ ] GitHub Repo with attack scenarios + mitigation notes ← *This repo*
-- [ ] 8-min video demo of exploitation & its fix
+--
 
 ---
 
