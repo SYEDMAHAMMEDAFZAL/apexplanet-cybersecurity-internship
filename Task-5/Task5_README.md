@@ -155,22 +155,4 @@ apexplanet-cybersecurity-internship/
         ├── wireshark-capture.png
         ├── log-detection.png
         └── iptables-block.png
-```
 
----
-
-## ✅ Final Deliverables
-
-- [ ] Capstone Project Report (with all screenshots)
-- [ ] GitHub Repo with scripts, notes, methodology ← *This repo*
-- [ ] 12-min Final Presentation Video
-- [ ] Final Submission: Report + GitHub + Video Link
-
----
-
-## ⚠️ Disclaimer
-> All attacks performed **exclusively on DVWA and Metasploitable2 in a private isolated lab.** Never use these techniques on systems without explicit written authorization.
-
----
-
-*ApexPlanet Software Pvt. Ltd. | Cybersecurity & Ethical Hacking Internship | SYEDMAHAMMEDAFZAL*
